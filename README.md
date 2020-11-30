@@ -11,3 +11,6 @@ pip install pyautogui
 ```
 5. Pilih korban
 6. Enjoy...
+
+### Note
+Bisa diedit2 kodenya agar lebih mantap
